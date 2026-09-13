@@ -7,6 +7,7 @@ then
  echo "$a = $b : a is equal to b"
 else
  echo "$a != $b: a is not equal to b"
+ echo "This is a 12 script edited by me"
 fi
 
 
