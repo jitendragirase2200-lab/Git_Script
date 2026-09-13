@@ -1,5 +1,5 @@
 #!/bin/bash
-#This is creation and calling of shell variable --- defining variables
+#This is the creation and calling of shell variables --- defining variables
 Class=Young-minds
 Batch=32
 PROFESSION=AWS/DevSecOps/Azure DevOps
